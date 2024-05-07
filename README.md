@@ -8,7 +8,6 @@ This tool aims to cater to diverse applications, ranging from microscopy images 
 For this implementation, the vtk models are scrollable - meaning you can scroll through the different slices of a chosen axis to analyse the image.
 
 
-Demonstration: https://www.youtube.com/watch?v=hQTpJbokDOU
 
 [![Demonstration](https://drive.google.com/file/d/1IDCXo02sk9WkDgWyZ1rthtWxFMkqCC5S/view?usp=sharing)](https://www.youtube.com/watch?v=hQTpJbokDOU)
 
