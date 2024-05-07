@@ -5,6 +5,9 @@ Image Measure Tool
 The purpose of this Image Measurement Tool is to provide a user-friendly interface for accurately measuring various aspects of images, including distances, circumferences, lengths along paths, and angles.
 This tool aims to cater to diverse applications, ranging from microscopy images to medical imaging such as CT and MRI scans and vtk models.
 
+Demonstration: https://www.youtube.com/watch?v=hQTpJbokDOU
+
+
 Requirements:
 You need to Download a JDK (Version 17 or above):
 https://bell-sw.com/pages/downloads/#jdk-21-lts
