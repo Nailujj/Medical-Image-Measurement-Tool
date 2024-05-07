@@ -1,0 +1,6 @@
+{
+    "description" : "Meteor crater in Arizona",
+    "image_file"  : "meteor-arizona.jpg", 
+    "image_resolution"  : 2.439,
+    "image_resolution_unit" : "m"
+}

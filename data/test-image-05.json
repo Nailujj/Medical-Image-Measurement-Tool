@@ -1,0 +1,6 @@
+{
+    "image_file"  : "hand-xray.jpg", 
+    "description" : "X-ray image of hand",
+    "image_resolution"  : 0.00836,
+    "image_resolution_unit" : "cm"
+}

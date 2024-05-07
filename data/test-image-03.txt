@@ -1,0 +1,3 @@
+description: Highlands terrain inside the Dante Crater site.
+image-file: 446609main_moonDante_full.jpg
+resolution: 0.58 m

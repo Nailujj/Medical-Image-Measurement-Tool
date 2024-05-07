@@ -1,0 +1,3 @@
+image-file: hand-xray.jpg
+description: X-ray image of hand
+resolution: 0.00836 cm

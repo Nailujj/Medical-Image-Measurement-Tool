@@ -1,0 +1,3 @@
+Diese Bild enthält das digitale Höhenmodell der Schweiz auf einem 200m Gitter (abgeleitet aus DHM 25/200, Bundesamt für Landestopografie, swisstopo). Die Intensitätswerte decken den Bereich von 0 bis 4556 Meter über Meer ab.
+
+Bilddatei: dem-switzerland.png

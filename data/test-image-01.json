@@ -1,0 +1,6 @@
+{
+    "description" : "Blutausstrich (Mensch)",
+    "image_file"  : "image01.jpg", 
+    "image_resolution"  : 0.0002,
+    "image_resolution_unit" : "mm"
+}

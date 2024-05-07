@@ -1,0 +1,95 @@
+MainPane, IntensityProfilePane {
+    -fx-background-color: #232323;
+}
+
+.text {
+    -fx-text-fill: #FFFFFF;
+}
+.chart-title {
+    -fx-text-fill: #FFFFFF;
+}
+.chart-plot-background {
+    -fx-background-color: #232323;
+}
+Button {
+    -fx-background-color: #B886FC;
+    -fx-text-fill: #000000;
+}
+
+ComboBox {
+    -fx-background-color: #B886FC
+}
+
+ComboBox .list-cell {
+    -fx-text-fill: #000000;
+}
+
+ComboBox .list-view {
+    -fx-background-color: #FFFFFF;
+}
+
+ComboBox .list-view .list-cell {
+    -fx-background-color: #232323;
+    -fx-text-fill: #FFFFFF;
+}
+
+ComboBox .arrow {
+    -fx-background-color: #000000;
+}
+
+TextArea {
+    -fx-background-insets: 0;
+    -fx-control-inner-background: #232323;
+    -fx-text-fill: #FFFFFF;
+    -fx-border-color: #FFFFFF;
+}
+
+CheckBox .box {
+    -fx-background-color: #333333;
+    -fx-border-color: #555555;
+}
+
+CheckBox:selected .box {
+    -fx-background-color: #555555;
+    -fx-border-color: #888888;
+}
+
+CheckBox .box:hover {
+    -fx-background-color: #444444;
+    -fx-border-color: #777777;
+}
+
+ColorPicker {
+    -fx-background-color: #B886FC;
+    -fx-text-fill: white;
+    -fx-color-label-visible: false;
+}
+
+Slider {
+    -fx-background-color: #333333;
+    -fx-text-fill: white;
+}
+
+Slider .track {
+    -fx-background-color: #555555;
+}
+
+Slider .thumb {
+    -fx-background-color: #888888;
+}
+
+.dialog {
+    -fx-background-color: #232323;
+}
+
+.dialog > *.button-bar > *.container {
+    -fx-background-color: #232323;
+}
+
+.dialog .header-panel {
+    -fx-background-color: #1F1F1F;
+}
+
+.dialog .label {
+    -fx-text-fill: #FFFFFF;
+}

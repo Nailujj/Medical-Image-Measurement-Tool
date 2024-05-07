@@ -1,0 +1,6 @@
+{
+    "description" : "MRI Spine (Sagittal T2)",
+    "image_resolution"  : 0.07,
+    "image_file"  : "mri-spine.png", 
+    "image_resolution_unit" : "cm"
+}

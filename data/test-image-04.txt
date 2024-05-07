@@ -1,0 +1,3 @@
+description: Meteor crater in Arizona
+image-file: meteor-arizona.jpg
+resolution: 2.439 m
