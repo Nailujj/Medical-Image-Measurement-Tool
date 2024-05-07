@@ -10,7 +10,7 @@ For this implementation, the vtk models are scrollable - meaning you can scroll 
 
 Demonstration: https://www.youtube.com/watch?v=hQTpJbokDOU
 
-[![Demonstration]]([![Video Title](url-to-image)](url-to-youtube-video))
+[![Demonstration](https://img.youtube.com/vi/hQTpJbokDOU/maxresdefault.jpg)](https://www.youtube.com/watch?v=hQTpJbokDOU)
 
 
 
