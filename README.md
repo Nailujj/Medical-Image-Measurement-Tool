@@ -1,13 +1,13 @@
 README
 
-Image Measure Tool
+**Image Measure Tool**
 
 The purpose of this Image Measurement Tool is to provide a user-friendly interface for accurately measuring various aspects of images, including distances, circumferences, lengths along paths, and angles.
 This tool aims to cater to diverse applications, ranging from microscopy images to medical imaging such as CT and MRI scans and vtk models. 
 
 For this implementation, the vtk models are scrollable - meaning you can scroll through the different slices of a chosen axis to analyse the image.
 
-
+**Demo video:**
 
 [![Demonstration](https://drive.google.com/uc?export=view&id=1IDCXo02sk9WkDgWyZ1rthtWxFMkqCC5S
 )](https://www.youtube.com/watch?v=hQTpJbokDOU)
