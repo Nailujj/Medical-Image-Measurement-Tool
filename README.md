@@ -9,7 +9,7 @@ For this implementation, the vtk models are scrollable - meaning you can scroll 
 
 
 
-[![Demonstration](https://drive.google.com/uc?export=view&id=1IDCXo02sk9WkDgWyZ1rthtWxFMkqCC5S/
+[![Demonstration](https://drive.google.com/uc?export=view&id=1IDCXo02sk9WkDgWyZ1rthtWxFMkqCC5S
 )](https://www.youtube.com/watch?v=hQTpJbokDOU)
 
 
