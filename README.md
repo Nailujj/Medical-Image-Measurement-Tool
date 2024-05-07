@@ -7,10 +7,11 @@ This tool aims to cater to diverse applications, ranging from microscopy images 
 
 For this implementation, the vtk models are scrollable - meaning you can scroll through the different slices of a chosen axis to analyse the image.
 
-<img width="1120" alt="image" src="https://github.com/Nailujj/Medical-Image-Measurement-Tool/assets/62629570/19134972-1b66-4ec5-93cf-2e9119e633f4">
-
 
 Demonstration: https://www.youtube.com/watch?v=hQTpJbokDOU
+
+[![Demonstration]]([![Video Title](url-to-image)](url-to-youtube-video))
+
 
 
 Requirements:
