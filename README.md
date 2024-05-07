@@ -10,8 +10,7 @@ For this implementation, the vtk models are scrollable - meaning you can scroll 
 
 Demonstration: https://www.youtube.com/watch?v=hQTpJbokDOU
 
-[![Demonstration](<img width="1359" alt="image" src="https://github.com/Nailujj/Medical-Image-Measurement-Tool/assets/62629570/8d18eb26-6a76-4e2d-ad0d-ad955073fd5e">
-)](https://www.youtube.com/watch?v=hQTpJbokDOU)
+[![Demonstration](https://drive.google.com/file/d/1IDCXo02sk9WkDgWyZ1rthtWxFMkqCC5S/view?usp=sharing)](https://www.youtube.com/watch?v=hQTpJbokDOU)
 
 
 
